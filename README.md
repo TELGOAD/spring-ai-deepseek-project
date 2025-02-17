@@ -24,6 +24,7 @@ This project is a Spring Boot AI integration that leverages Spring AI DeepSeek t
 ### JUnit (for testing)
 
 # Clone the Repository
+ ### https://github.com/TELGOAD/spring-ai-deepseek-project.git
 
 
 
